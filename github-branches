@@ -1,0 +1,4 @@
+theia@theia-u1v1lya23:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 6c8257b [origin/bug-fix-revert] Revert "change README file in bug-fix-typo"
+  bug-fix-typo   5d34f1f change README file in bug-fix-typo
+  main           fa564c2 [origin/main: ahead 2] Revert "Create close_pr.yml"
